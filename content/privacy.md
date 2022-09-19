@@ -1,15 +1,13 @@
 ---
-title: Privacy Policy
-date: '2018-06-28T00:00:00+01:00'
-draft: true
-share: false
-commentable: false
+draft: false
 editable: false
-
-# Optional header image (relative to `static/media/` folder).
+summary: No policy
 header:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+title: Privacy Policy
+date: 2022-09-19T22:26:10.520Z
+commentable: false
+share: false
 ---
-
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+No policy
